@@ -1,4 +1,6 @@
 # Doubly-linked-list
+View this document in a non-wrapped mode for better viewing
+
 
 Q: what are doubly-linked-list?
 A: it has yet another node in which the singly-linked node did not
