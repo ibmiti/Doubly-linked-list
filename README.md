@@ -40,4 +40,14 @@ A: access time on a doubly may be quicker
 Q: is there any downside of doubly linked list?:
 A: the doubly may carry more data thus; taking up more memory
 
-
+Q: pros of singly-linked-list:
+A: 
+  1. requires less memory
+  2. cannot be traversed from 0 - n 
+  3. should be used when you want to use less memory and do fast insertion, deletion
+  
+Q: pros of doubly-linked list:
+A: 
+  1. traversed from front || back 
+  2. if wanting to delete previous node you do not have to traverse from the head to n and find out what the previous node was/is 
+  3. easy to search backwards 
